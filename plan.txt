@@ -1,0 +1,5 @@
+To Do:
+1. Add a buffer to client.recieve
+2. Add error handling to client.recieve
+3. Connect the boolean return in client.receive to "whether or not it was received successfully"
+4. In the server, buffer incoming messages until you have received all of a given message.
